@@ -58,7 +58,7 @@ public class Sudoku {
         return true;
     }
 
-    // printing the grid
+    // printing the Sudoku grid
     static void print(int[][] grid) {
         for(int i = 0; i < N; i++) {
             for(int j = 0; j < N; j++) {
